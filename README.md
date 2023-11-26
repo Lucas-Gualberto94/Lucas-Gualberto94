@@ -1,4 +1,4 @@
-Hi everyone!
+## Hi everyone!
 
 🌱 I’m currently studying a postgraduate in full-stack development at Descomplica. I also have a master's degree in Physics at University of São Paulo (USP). A fast learner with good communication skills. 
 
