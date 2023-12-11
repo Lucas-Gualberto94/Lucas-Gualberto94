@@ -2,12 +2,21 @@
 
 🌱 I’m currently studying a postgraduate in full-stack development at Descomplica. I also have a master's degree in Physics at University of São Paulo (USP). A fast learner with good communication skills. 
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Lucas-gualberto94&theme=dark&mode=weekly" />
- </div>
+##GITHUB STATUS
+
+<div  style="margin-bottom:100px" dlsplay:flex flex-direction:row>
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Lucas-gualberto94&theme=dark&mode=weekly" />  
+
+&nbsp;
+
+ ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Lucas-Gualberto94&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+</div>
+
+
  
+
  &nbsp;
- &nbsp;
+&nbsp;
 
 
 
