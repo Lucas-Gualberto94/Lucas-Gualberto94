@@ -1,6 +1,6 @@
 ## Hi everyone!
 
-🌱 I’m currently studying a postgraduate in full-stack development at Descomplica. I also have a master's degree in Physics at University of São Paulo (USP). A fast learner with good communication skills. 
+🌱 I am studying a Bachelor's Degree in Information Technology at UNIVESP. I have a postgraduate in full-stack development at Descomplica. I also have a master's degree in Physics at University of São Paulo (USP). A fast learner with good communication skills. 
 
 My personal Website: https://lucas-gualberto94.github.io/
 
@@ -26,24 +26,9 @@ My personal Website: https://lucas-gualberto94.github.io/
 
 #### Main Stack:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)&nbsp;
-![JAVA](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-
-
-
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
-#### Secondary Stack:
-
-![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)&nbsp;
-
-
 
 
 #### Databases:
